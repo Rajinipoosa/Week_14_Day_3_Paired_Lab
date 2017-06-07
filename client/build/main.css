@@ -1,0 +1,13 @@
+.square-div{
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+   font-size: 150px;
+  background-color: lightblue;
+}
+.winner{
+  font-size: 100px;
+  background-color: lightblue;
+  text-align: center;
+}
